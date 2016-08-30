@@ -3,9 +3,9 @@ The purpose of this exercise is to assess your ability to craft custom HTML5 usi
 
 The grading criteria is simple:
 1. How well does your resulting page conform to the prototype design?
-2. How well did you follow the directions in the [Requirements](../tree/master#requirements) section below?
+2. How well did you follow the directions in the [Requirements](tree/master#requirements) section below?
 
-You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exercises/uh_newbookings.jpg) or [check it out below](..tree/master#the-prototype-design).
+You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exercises/uh_newbookings.jpg) or [check it out below](https://github.com/upper-hand/html-css-dev-exercise/tree/master#the-prototype-design).
 
 ## Process
 1. Fork this repository and create a PR against it for your final work, so that we can review it.
