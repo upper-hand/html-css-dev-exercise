@@ -8,7 +8,9 @@ The grading criteria is simple:
 You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exercises/uh_newbookings.jpg) or [check it out below](https://github.com/upper-hand/html-css-dev-exercise/tree/master#the-prototype-design).
 
 ## Process
-1. Fork this repository and create a PR against it for your final work, so that we can review it.
+1. Create a branch within this repo
+2. Do your work
+3. Create a PR for your branch so that we can review it
 
 ## Assets
 You will need two additional assets for your translation of the design.
@@ -23,6 +25,7 @@ You will need two additional assets for your translation of the design.
 - any emails in the page should be links using the [mailto: protocol](https://msdn.microsoft.com/en-us/library/aa767737(v=vs.85).aspx)
 - the page should have a background color of `#EEF1F5` (`rgb(238,241,245)`)
 - any green text should use a font color of `#5DD979` (`rgb(93,217,121)`)
+- your final product should be a single `index.html` file
 
 ## The Prototype Design
 ![email design](https://s3.amazonaws.com/upperhand-dev/dev-exercises/uh_newbookings.jpg)
