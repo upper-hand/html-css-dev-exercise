@@ -11,6 +11,7 @@ You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exer
 1. Create a branch within this repo
 2. Do your work
 3. Create a PR for your branch so that we can review it
+4. Make sure that you follow best practices for HTML emails ([here's a helpful link](https://gist.github.com/janogarcia/4977a2346cbc7e52334b))
 
 ## Assets
 You will need two additional assets for your translation of the design.
