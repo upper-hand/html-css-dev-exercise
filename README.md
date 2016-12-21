@@ -1,5 +1,5 @@
 # html-css-dev-exercise
-The purpose of this exercise is to assess your ability to craft custom HTML5 **targeting email clients**, using common elements and good CSS. The end result should be well-formed HTML5 markup with all CSS in an embedded `<style>` element.
+The purpose of this exercise is to assess your ability to craft custom HTML5 **targeting email clients**, using common elements and good CSS. The end result should be well-formed HTML5 markup with all CSS in inlined `style` attributes.
 
 The grading criteria is simple:
 1. How well does your resulting page conform to the prototype design?
