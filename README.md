@@ -8,9 +8,9 @@ The grading criteria is simple:
 You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exercises/uh_newbookings.jpg) or [check it out below](https://github.com/upper-hand/html-css-dev-exercise/tree/master#the-prototype-design).
 
 ## Process
-1. Create a branch within this repo
+1. Fork this repository
 2. Do your work
-3. Create a PR for your branch so that we can review it
+3. Submit your PR from your forked repo to `master` on this repo.
 4. Make sure that you follow best practices for HTML emails ([here's a helpful link](https://gist.github.com/janogarcia/4977a2346cbc7e52334b))
 
 ## Assets
