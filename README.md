@@ -10,7 +10,7 @@ You can access the design [here](https://s3.amazonaws.com/upperhand-dev/dev-exer
 ## Process
 1. Fork this repository
 2. Do your work
-3. Submit your PR from your forked repo to `master` on this repo.
+3. Create a PR from your forked repo to `master` on this repo, and submit it
 4. Make sure that you follow best practices for HTML emails ([here's a helpful link](https://gist.github.com/janogarcia/4977a2346cbc7e52334b))
 
 ## Assets
